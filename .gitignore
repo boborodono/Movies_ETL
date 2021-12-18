@@ -2,6 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Resources/
+.Movies_jupyter2
+.Movies_jupyter3
+.ETL_Deliverable1_Practice
+
+config.py
+Movies_jupyter2.ipynb
 
 # C extensions
 *.so
